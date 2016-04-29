@@ -1,0 +1,92 @@
+{
+   "deelnemers" : {
+      "ard" : {
+         "naam" : "Ard van der Putten"
+      },
+      "folkert" : {
+         "naam" : "Folkert Lettinga"
+      },
+      "laurens" : {
+         "aanwezig" : {
+            "2015-12-04" : "true",
+            "2015-12-11" : "true"
+         },
+         "naam" : "Laurens Bremers"
+      },
+      "lou" : {
+         "naam" : "Lou Jansen"
+      },
+      "marnix" : {
+         "naam" : "Marnix Looijmans"
+      },
+      "marten" : {
+         "naam" : "Marten Albers"
+      },
+      "rein" : {
+         "naam" : "Rein Schapendonk"
+      },
+      "samantha" : {
+         "naam" : "Samantha van Rijs"
+      },
+      "stijn" : {
+         "naam" : "Stein de Jong"
+      },
+      "timi" : {
+         "naam" : "Timi van Schalkwijk"
+      },
+      "vincent" : {
+         "naam" : "Vincent Dankbaar"
+      },
+      "willem" : {
+         "naam" : "Willem Smitjes"
+      },
+      "wouter" : {
+         "aanwezig" : {
+            "2015-12-04" : "true"
+         },
+         "naam" : "Wouter"
+      }
+   },
+   "vrijwilligers" : {
+      "aaron" : {
+         "naam" : "Aaron Beentjes"
+      },
+      "bas" : {
+         "naam" : "Bas Smits"
+      },
+      "bram" : {
+         "naam" : "Bram Winter"
+      },
+      "camille" : {
+         "naam" : "Camille Paardenkooper"
+      },
+      "davidm" : {
+         "naam" : "David Marcelis"
+      },
+      "denz" : {
+         "image" : "images/denz.jpg",
+         "naam" : "Alex van Denzel"
+      },
+      "duur" : {
+         "naam" : "Ruud van Veen"
+      },
+      "joost" : {
+         "naam" : "Joost Janssen"
+      },
+      "mart" : {
+         "naam" : "Mart Storms"
+      },
+      "menno" : {
+         "naam" : "Menno Willemse"
+      },
+      "pijke" : {
+         "naam" : "Pijke Hochstenbach"
+      },
+      "ruud" : {
+         "naam" : "Ruud Wieser"
+      },
+      "xantios" : {
+         "naam" : "Xantios Krugor"
+      }
+   }
+}

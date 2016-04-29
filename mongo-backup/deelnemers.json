@@ -1,0 +1,463 @@
+[{
+	"_id": {
+		"$oid": "537686f5146428470d22949b"
+	},
+	"email": "folkert.lettinga@gmail.com",
+	"opmerkingen": "2 dagdelen",
+	"ouders": {
+		"email": "lammert.lettinga@gmail.com"
+	},
+	"geboortedatum": {
+		"$date": "2002-04-03T22:00:00.000Z"
+	},
+	"naam": {
+		"achternaam": "Lettinga",
+		"voornaam": "Folkert"
+	},
+	"dagdeel": [
+		"woensdagmiddag",
+		"vrijdagavond"
+	]
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d22949c"
+	},
+	"dagdeel": [
+		"woensdagmiddag"
+	],
+	"naam": {
+		"achternaam": "Mennen",
+		"voornaam": "Quinten"
+	},
+	"ouders": {
+		"email": "hannelore.driessen@xs4all.nl"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d22949d"
+	},
+	"geboortedatum": {
+		"$date": "2001-04-29T22:00:00.000Z"
+	},
+	"ouders": {
+		"telefoon": "024-3244848"
+	},
+	"telefoon": "06-21806553",
+	"email": "laurensbremers@live.nl",
+	"naam": {
+		"achternaam": "Bremers",
+		"voornaam": "Laurens"
+	},
+	"dagdeel": [
+		"woensdagmiddag",
+		"vrijdagavond"
+	]
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d22949e"
+	},
+	"dagdeel": [
+		"woensdagmiddag"
+	],
+	"naam": {
+		"achternaam": "Devillers",
+		"voornaam": "Abel"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d22949f"
+	},
+	"email": "ehasommers@tele2.nl",
+	"dagdeel": [
+		"woensdagmiddag"
+	],
+	"naam": {
+		"voornaam": "Arguillio",
+		"achternaam": "Sommers"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a0"
+	},
+	"dagdeel": [
+		"woensdagmiddag"
+	],
+	"naam": {
+		"achternaam": "Vos",
+		"voornaam": "Roos"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a1"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Heuvel",
+		"voornaam": "Stan",
+		"tussenvoegsel": "van den"
+	},
+	"ouders": {
+		"telefoon": "06-14157610",
+		"email": "nathalievdheuvel@liv.nl"
+	},
+	"geboortedatum": {
+		"$date": "1997-10-22T22:00:00.000Z"
+	},
+	"telefoon": "06-24423078",
+	"email": "stanvandenheuve@hotmail.nl"
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a2"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Smits",
+		"voornaam": "Bas"
+	},
+	"ouders": {
+		"email": "familie.smits@glazenkamp.net",
+		"telefoon": "06-53351848"
+	},
+	"telefoon": "06-48627941",
+	"geboortedatum": {
+		"$date": "1997-09-03T22:00:00.000Z"
+	},
+	"email": "jaaplinden1@gmail.com"
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a3"
+	},
+	"email": "kztjjk@gmail.com",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Jori",
+		"achternaam": "Geysberts"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a4"
+	},
+	"naam": {
+		"achternaam": "Schapendonk",
+		"voornaam": "Rein"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"email": "reinoud.matthias@xs4all.nl",
+	"geboortedatum": {
+		"$date": "2000-06-19T22:00:00.000Z"
+	},
+	"ouders": {
+		"telefoon": "06-83893395",
+		"email": "wilberts@antenne.nl"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a5"
+	},
+	"telefoon": "06-53807960",
+	"ouders": {
+		"telefoon": "024-3430611",
+		"email": "anda2upcmail.nl"
+	},
+	"geboortedatum": {
+		"$date": "1999-06-22T22:00:00.000Z"
+	},
+	"email": "mjlooijmans@me.com",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Looijmans",
+		"voornaam": "Marnix"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a6"
+	},
+	"email": "timohofstede@hotmail.com",
+	"ouders": {
+		"email": "miranda358@hotmail.com",
+		"telefoon": "06-25380149"
+	},
+	"geboortedatum": {
+		"$date": "2001-08-02T22:00:00.000Z"
+	},
+	"telefoon": "06-18374848",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Timo",
+		"achternaam": "Hofstede"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a7"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Luuk",
+		"achternaam": "Nooteboom"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a8"
+	},
+	"email": "stijn.dejong@hotmail.com",
+	"ouders": {
+		"email": "riky-de-jong@live.nl",
+		"telefoon": "06-17058864"
+	},
+	"geboortedatum": {
+		"$date": "2000-10-19T22:00:00.000Z"
+	},
+	"telefoon": "06-11723613",
+	"naam": {
+		"achternaam": "de Jong",
+		"voornaam": "Stijn"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	]
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294a9"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Walder",
+		"voornaam": "Daan"
+	},
+	"ouders": {
+		"email": "anneberb@gmail.com"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294aa"
+	},
+	"email": "david_marcelis@hotmail.com",
+	"ouders": {
+		"email": "m.marcelis3@chello.nl",
+		"telefoon": "06-16438473"
+	},
+	"telefoon": "06-33793495",
+	"geboortedatum": {
+		"$date": "1997-05-10T22:00:00.000Z"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "David",
+		"achternaam": "Marcelis"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294ab"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Gerritsen",
+		"voornaam": "Bas"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294ac"
+	},
+	"geboortedatum": {
+		"$date": "1997-04-19T22:00:00.000Z"
+	},
+	"ouders": {
+		"telefoon": "06-23539160",
+		"email": "biancaweerdmeester@kpnplanet.nl"
+	},
+	"telefoon": "06-24605224",
+	"email": "maxweerdmeester@gmail.com",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Max",
+		"achternaam": "Weerdmeester"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294ad"
+	},
+	"geboortedatum": {
+		"$date": "1995-12-31T22:00:00.000Z"
+	},
+	"telefoon": "06-43491761",
+	"email": "ricardoprudon@gmail.com",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Prudon",
+		"voornaam": "Ricardo"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294ae"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"achternaam": "Albers",
+		"voornaam": "Martin"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294af"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Thomas",
+		"achternaam": "Nonnekens"
+	},
+	"email": "thomasnonnekens@kpnmail.nl",
+	"telefoon": "06-48817308",
+	"ouders": {
+		"telefoon": "0481-373175",
+		"email": "nonne036@lanet.nl"
+	},
+	"geboortedatum": {
+		"$date": "1999-11-23T22:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294b0"
+	},
+	"geboortedatum": {
+		"$date": "2000-11-10T22:00:00.000Z"
+	},
+	"ouders": {
+		"email": "nielvandaal@online.nl",
+		"telefoon": "06-51691286"
+	},
+	"email": "pietervandevoort@kpnmail.nl",
+	"dagdeel": [
+		"vrijdagavond"
+	],
+	"naam": {
+		"voornaam": "Pieter",
+		"tussenvoegsel": "van de",
+		"achternaam": "Voort"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294b1"
+	},
+	"naam": {
+		"voornaam": "Thom",
+		"tussenvoegsel": "van",
+		"achternaam": "Rijswijk"
+	},
+	"dagdeel": [
+		"woensdagmiddag",
+		"vrijdagavond"
+	],
+	"ouders": {
+		"email": "vanrijswijk63@hetnet.nl",
+		"telefoon": "024-3781033"
+	},
+	"geboortedatum": {
+		"$date": "2001-05-29T22:00:00.000Z"
+	},
+	"email": "thomvanrijswijk@gmail.com"
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294b2"
+	},
+	"geboortedatum": {
+		"$date": "2003-07-06T22:00:00.000Z"
+	},
+	"ouders": {
+		"email": "lottekoolhaas@hotmail.com",
+		"telefoon": "06-14309010"
+	},
+	"email": "bojan.koolhaas@hotmail.com",
+	"naam": {
+		"achternaam": "Koolhaas",
+		"voornaam": "Bojan"
+	},
+	"dagdeel": [
+		"woensdagmiddag"
+	]
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294b3"
+	},
+	"ouders": {
+		"email": "moniquesytsma@hotmail.com"
+	},
+	"dagdeel": [
+		"woensdagmiddag"
+	],
+	"naam": {
+		"voornaam": "Sam",
+		"achternaam": "Derksen"
+	}
+},
+{
+	"_id": {
+		"$oid": "537686f5146428470d2294b4"
+	},
+	"geboortedatum": {
+		"$date": "1997-10-16T22:00:00.000Z"
+	},
+	"ouders": {
+		"email": "allesrood@hotmail.com",
+		"telefoon": "024-3787543"
+	},
+	"email": "funny119@hotmail.nl",
+	"naam": {
+		"voornaam": "Jasper",
+		"achternaam": "Vogels"
+	},
+	"dagdeel": [
+		"vrijdagavond"
+	]
+}]
+

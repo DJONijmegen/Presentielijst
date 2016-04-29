@@ -1,0 +1,27 @@
+[{
+	"_id": {
+		"$oid": "537fccc9c013e889c7805534"
+	},
+	"deelnemer": {
+		"$oid": "53766ab4146428470d229473"
+	},
+	"dagdeel": "vrijdagavond",
+	"datum": {
+		"$date": "2014-05-23T00:00:00.000Z"
+	},
+	"present": true
+},
+{
+	"_id": {
+		"$oid": "537fcd31c013e889c7805535"
+	},
+	"deelnemer": {
+		"$oid": "53766ab4146428470d229473"
+	},
+	"dagdeel": "zaterdagnacht",
+	"datum": {
+		"$date": "2014-05-24T00:00:00.000Z"
+	},
+	"present": true
+}]
+
